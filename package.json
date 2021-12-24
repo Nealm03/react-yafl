@@ -24,7 +24,7 @@
   "author": "Stuart Bourhill",
   "license": "MIT",
   "dependencies": {
-    "@types/prop-types": "^15.5.3",
+    "@types/prop-types": "^15.7.4",
     "lodash": "^4.6.0",
     "object-path-immutable": "^1.0.2",
     "prop-types": "^15.6.1",
